@@ -1,1 +1,1 @@
-![SCREENSHOT!](public\output screenshot.png)
+![SCREENSHOT!](output screenshot.png)
