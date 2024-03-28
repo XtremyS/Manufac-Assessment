@@ -1,0 +1,40 @@
+x/* Style for table headers */
+.main_container_div {
+  margin: auto;
+}
+
+th {
+  background-color: #f2f2f2;
+  padding: 8px;
+  text-align: left;
+}
+
+/* Style for table data cells */
+td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+/* Style for table rows */
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+/* Style for table container */
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+/* Style for section headings */
+h2 {
+  margin-top: 20px;
+}
+h1 {
+  color: #333; /* Dark gray color for main headings */
+}
+
+h2 {
+  color: #007bff; /* Blue color for subheadings */
+}
